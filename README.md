@@ -1,4 +1,4 @@
-Transmission mechanism using opportunistic routing and multipath routing in order to improve end to end transmission reliability using bifurcation for large scale wireless networks
+Transmission mechanism using opportunistic routing and multipath routing in order to improve end to end transmission reliability using bifurcation for large scale wireless networks.
 
 Project Report
 
